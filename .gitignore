@@ -1,0 +1,3 @@
+# Código gitignore para evitar procesamiento de archivos html y de la carpeta output
+output/
+*.html
